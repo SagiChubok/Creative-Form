@@ -4,4 +4,4 @@ During my studies at introductory to web and cloud course, I was asked to create
 <br>
 <b>Big thanks to Itay Lukach for letting me using his amazing song.</b>
 
-<img src="https://i.imgur.com/hGREPnC.jpg" width="800" height="400"></img>
+<img src="sample.gif?raw=true">
